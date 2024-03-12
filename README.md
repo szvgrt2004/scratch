@@ -1,1 +1,2 @@
-# scratch
+A srcatch projektem egy egyszerű játék, amiben egy űrkutyával (Brunoval) kell eljutni a célba. A játék során tüskéket kell átugrani Brunoval a space billentyű megnyomásával. Ha neki megyünk egy tüskének, akkor Bruno elveszíti a három élete küzöl az egyiket. Az űrsétát hanghatások egészítik ki. A játék elindításával elindul a zene, ami egészen addig hallható, amíg neki nem megyünk egy tüskének, esetleg veszítünk, vagy nyerünk.
+![image](https://github.com/szvgrt2004/scratch/assets/161828895/e5c2bf2f-41cd-49e3-a75e-dd7c0a15e9b1)
